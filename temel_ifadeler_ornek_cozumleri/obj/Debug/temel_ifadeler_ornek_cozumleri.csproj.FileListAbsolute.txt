@@ -1,0 +1,7 @@
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Sınav Hazırlık Çalışmaları - 1\temel_ifadeler_ornek_cozumleri\temel_ifadeler_ornek_cozumleri\bin\Debug\temel_ifadeler_ornek_cozumleri.exe.config
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Sınav Hazırlık Çalışmaları - 1\temel_ifadeler_ornek_cozumleri\temel_ifadeler_ornek_cozumleri\bin\Debug\temel_ifadeler_ornek_cozumleri.exe
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Sınav Hazırlık Çalışmaları - 1\temel_ifadeler_ornek_cozumleri\temel_ifadeler_ornek_cozumleri\bin\Debug\temel_ifadeler_ornek_cozumleri.pdb
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Sınav Hazırlık Çalışmaları - 1\temel_ifadeler_ornek_cozumleri\temel_ifadeler_ornek_cozumleri\obj\Debug\temel_ifadeler_ornek_cozumleri.csprojAssemblyReference.cache
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Sınav Hazırlık Çalışmaları - 1\temel_ifadeler_ornek_cozumleri\temel_ifadeler_ornek_cozumleri\obj\Debug\temel_ifadeler_ornek_cozumleri.csproj.CoreCompileInputs.cache
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Sınav Hazırlık Çalışmaları - 1\temel_ifadeler_ornek_cozumleri\temel_ifadeler_ornek_cozumleri\obj\Debug\temel_ifadeler_ornek_cozumleri.exe
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Sınav Hazırlık Çalışmaları - 1\temel_ifadeler_ornek_cozumleri\temel_ifadeler_ornek_cozumleri\obj\Debug\temel_ifadeler_ornek_cozumleri.pdb

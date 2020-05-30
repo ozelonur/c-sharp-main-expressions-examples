@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temel_ifadeler_ornek_cozumleri", "temel_ifadeler_ornek_cozumleri\temel_ifadeler_ornek_cozumleri.csproj", "{A8EA85B0-EC37-48E4-A5AD-4211A607C5D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8EA85B0-EC37-48E4-A5AD-4211A607C5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EA85B0-EC37-48E4-A5AD-4211A607C5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EA85B0-EC37-48E4-A5AD-4211A607C5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EA85B0-EC37-48E4-A5AD-4211A607C5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57480C52-FFF8-414F-B23F-7E294CF21108}
+	EndGlobalSection
+EndGlobal

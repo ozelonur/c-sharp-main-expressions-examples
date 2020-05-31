@@ -96,17 +96,60 @@ namespace temel_ifadeler_ornek_cozumleri
             //Console.WriteLine(cumle.ToLower());
 
             // 10. Soru
-            Console.WriteLine("Vize Notunu Giriniz :");
-            double vize = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Final Notunu Giriniz : ");
-            double final = Convert.ToDouble(Console.ReadLine());
+            //Console.WriteLine("Vize Notunu Giriniz :");
+            //double vize = Convert.ToDouble(Console.ReadLine());
+            //Console.WriteLine("Final Notunu Giriniz : ");
+            //double final = Convert.ToDouble(Console.ReadLine());
 
-            double sonuc = vize * 0.4 + final * 0.6;
+            //double sonuc = vize * 0.4 + final * 0.6;
 
-            Console.WriteLine("Sonuc : {0}", sonuc);
+            //Console.WriteLine("Sonuc : {0}", sonuc);
 
+            // 11. Soru
+            //string cumle = "Ulaşabileceğine inandığın her şey sana aittir";
 
+            //string[] kelimeler = cumle.Split(' ');
+            //int enuzunkelime = 0;
+            //string kelime = "";
 
+            //for (int i = 0;i< kelimeler.Length; i++)
+            //{
+            //    if(enuzunkelime < kelimeler[i].Length)
+            //    {
+            //        enuzunkelime = kelimeler[i].Length;
+            //        kelime = kelimeler[i];
+            //    }
+            //}
+
+            //Console.WriteLine("{0}  cümlesindeki en uzun kelime : {1} , harf sayısı : {2}", cumle, kelime, enuzunkelime);
+
+            // 12. Soru
+
+            //for (int i = 1; i <= 100; i++)
+            //{
+            //    if (i % 2 != 0)
+            //    {
+            //        Console.Write(i + "   ");
+            //    }
+            //    else if (i % 2 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //}
+
+            // 13. Soru
+
+            Console.WriteLine("Sayı Giriniz -->");
+            int sayi = Convert.ToInt32(Console.ReadLine());
+
+            int faktoriyel = 1;
+
+            for(int i = 2; i<= sayi; i++)
+            {
+                faktoriyel *= i;
+            }
+
+            Console.WriteLine("Faktöriyel = {0}",faktoriyel);
 
             Console.ReadKey();
         }
